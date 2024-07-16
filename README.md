@@ -1,4 +1,4 @@
-## Create a MakeFile   
+## Create a Makefile   
 
 <div>
     <div></div>
