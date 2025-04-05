@@ -9,4 +9,4 @@
 Makefile to run compiler code, a concept learned as a graduate student.
 
 1. create a Makefile
-2. make 
+2. run "make" in command line
